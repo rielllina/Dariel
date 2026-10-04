@@ -1,0 +1,10 @@
+{
+  "name": "rombloNatin",
+  "description": "Discover. Experience. Protect Romblon. Official modern tourism platform for rombloNatin, highlighting pristine islands, responsible travel, cultural heritage, and local craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
+
